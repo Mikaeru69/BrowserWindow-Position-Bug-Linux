@@ -1,0 +1,14 @@
+{
+  "name": "browser-window-position-bug-linux",
+  "version": "1.0.0",
+  "description": "Electron Bug Report",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mikaeru",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.5"
+  }
+}
